@@ -6,15 +6,35 @@
 - Learning Web Development
 - Building projects every week
 
-## Current Projects
-- Calculator
-- Age Calculator
-- Expense Tracker
-- Password Generator
-- To-Do List
-- Number Guessing Game
-- Rock Paper Scissors
-- Quiz Game
+  ## 📚 Currently Learning
+
+- Python OOP
+- File Handling
+- AI Automation
+- Web Development
+  
+## 🛠️ Skills
+
+- Python
+- Git & GitHub
+- VS Code
+- Problem Solving
+- Automation (Learning)
+- Web Development (Learning)
+
+  
+## 🚀 Projects
+
+| Project | Description |
+|----------|------------|
+| Calculator | Basic arithmetic operations |
+| Age Calculator | Calculates age from birth year |
+| Expense Tracker | Track expenses |
+| Password Generator | Generate secure passwords |
+| To-Do List | Manage tasks |
+| Number Guessing Game | Guess the random number |
+| Rock Paper Scissors | Play against computer |
+| Quiz Game | Multiple-choice quiz |
 
 ## Goals
 - Become a Python Developer
