@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Rohan 👋
 
-<!--
-**rohankuwal20/rohankuwal20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Learning Python
+- Learning AI Automation
+- Learning Web Development
+- Building projects every week
 
-Here are some ideas to get you started:
+## Current Projects
+- Calculator
+- Age Calculator
+- Expense Tracker
+- Password Generator
+- To-Do List
+- Number Guessing Game
+- Rock Paper Scissors
+- Quiz Game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Become a Python Developer
+- Learn Automation
+- Build Real-World Projects
+- Contribute to Open Source
+
+## GitHub Stats
+Learning and building every day 🚀
